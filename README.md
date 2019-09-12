@@ -1,4 +1,4 @@
-# One driver for 3 wireless adaptors (and the various installation processes related)
+# One driver for 3 wireless adaptors
 
 WIFI 172-171-t4uv3
 
